@@ -1,7 +1,7 @@
 `pimp`
 ======
 
-`pimp` is a simple command lint utility to calculate the "Performance IMProvement"
+`pimp` is a simple command line utility to calculate the "Performance IMProvement"
 of a `before` and `after` figure
 
 Example
